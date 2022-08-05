@@ -23,8 +23,8 @@ baseurl: "/naser"
 
 navbar-links:
   Research Group: "tabs/research"
-  Teaching: "teaching"
-  Bio: "bio"
+  Teaching: "tabs/teaching"
+  # Bio: "tabs/bio"
   Contact Me: "tabs/contact"
 
 ################
@@ -37,6 +37,7 @@ navbar-links:
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
+remove-ads: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -131,7 +132,7 @@ navbar-text-col: "#FAFAFA"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#03a7dd"
 hover-col: "EBEBEB"
 footer-col: "#C00"
 footer-text-col: "#FAFAFA"

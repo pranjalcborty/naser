@@ -13,8 +13,9 @@ page and reach out to us.
 
 ### Master's Student
 
-* Adib Khan
 * Amirmahdi Khosravi Tabrizi
-* Dipanzan Islam
 * Mehenika Akter Mitu
 * Pranjal Chakraborty \| [Bio](https://pranjal.net/)
+* Sarwat Islam Dipanzan
+* Mohammed Adib Khan
+* Yue Guan
