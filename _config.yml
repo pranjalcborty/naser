@@ -22,7 +22,7 @@ baseurl: "/naser"
 ###############################################
 
 navbar-links:
-  Research Group: "tabs/research"
+  Research Group (A-STAR): "tabs/research"
   Teaching: "tabs/teaching"
   # Bio: "tabs/bio"
   Contact Me: "tabs/contact"
