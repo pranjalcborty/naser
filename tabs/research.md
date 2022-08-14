@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automated Software Testing & Analysis Research (A-Star) Group
+title: Automated Software Testing & Analysis Research (A-STAR) Group
 ---
 
 <!--- 
