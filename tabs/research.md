@@ -1,11 +1,16 @@
 ---
 layout: page
-cover-img: /assets/img/path.jpg
-title: Software Testing and Analytics Research (STAR) Group
+title: Automated Software Testing & Analysis Research (A-Star) Group
 ---
 
-My research group, Software Testing and Analytics Research, consists of several undergrads, masters and PhD students. We are supported by
-generous funding from Mitacs, NSERC and several other funding agencies. Our work is closely intertwined with industry, and we collaborate 
+<!-- 
+Add an image to the /assets/img/ directory and add that file name like the following line above the "---" to add a cover image.
+
+cover-img: /assets/img/path.jpg 
+-->
+
+My research group, Automated Software Testing & Analysis Research, consists of several undergrads, and masters students. We are supported by
+generous funding from Mitacs, NSERC and several other funding agencies. Our work is closely intertwined with the industry, and we collaborate 
 with companies like Ciena to produce cutting edge research outputs.
 
 We are always looking for brilliant and motivated students to work with us. If you think you are one of them, head over to the 
