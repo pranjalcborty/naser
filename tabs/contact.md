@@ -9,7 +9,7 @@ title: Contact Me
 Office: MC J321\
 905 688 5550 Ext 3520\
 nezzati@brocku.ca\
-Brock University, 
+Brock University,\
 St. Catharines, ON, Canada
 
 <!---
