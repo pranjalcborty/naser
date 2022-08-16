@@ -11,8 +11,8 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
+  font-family: 'Arial', 'Times New Roman', serif;
+  font-size: 1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -484,6 +484,10 @@ footer .footer-custom-content {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 
+.sidepanel {
+  font-size: 0.9rem;
+}
+
 .post-preview .post-title {
   font-size: 1.875rem;
   margin-top: 0;
@@ -739,10 +743,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3.5rem;
   }
   .intro-header .post-heading h1 {
-    font-size: 3.125rem;
+    font-size: 3rem;
   }
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;
