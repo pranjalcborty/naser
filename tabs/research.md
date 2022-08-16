@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Automated Software Testing & Analysis Research (A-STAR) Group
+cover-img: /assets/img/bg.png
 ---
 
 <!--- 
