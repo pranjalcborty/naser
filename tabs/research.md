@@ -20,12 +20,27 @@ reach out to us.
 
 ### Master's Student
 
-
-| ![Amirmahdi Khosravi Tabrizi](/assets/img/people/image.png) | ![Mehenika Akter Mitu](/assets/img/people/image.png) | ![Pranjal Chakraborty](/assets/img/people/image.png) |
-| :--: | :--: | :--: |
-| Amirmahdi Khosravi Tabrizi | Mehenika Akter Mitu | Pranjal Chakraborty |
-
-
-![Sarwat Islam Dipanzan](/assets/img/people/image.png)
-![Mohammed Adib Khan](/assets/img/people/image.png)
-![Yue Guan](/assets/img/people/image.png)
+<div align="center">
+<table>
+    <tr>
+        <td><img src="/assets/img/people/image.png"/></td>
+        <td><img src="/assets/img/people/image.png"/></td>
+        <td><img src="/assets/img/people/image.png"/></td>
+    </tr>
+    <tr>
+        <td style="text-align: center">Amirmahdi Khosravi Tabrizi</td>
+        <td style="text-align: center">Mehenika Akter</td>
+        <td style="text-align: center">Pranjal Chakraborty</td>
+    </tr>
+    <tr>
+        <td><img src="/assets/img/people/image.png"/></td>
+        <td><img src="/assets/img/people/image.png"/></td>
+        <td><img src="/assets/img/people/image.png"/></td>
+    </tr>
+    <tr>
+        <td style="text-align: center">Sarwat Islam Dipanzan</td>
+        <td style="text-align: center">Mohammed Adib Khan</td>
+        <td style="text-align: center">Yue Guan</td>
+    </tr>
+</table>
+</div>
