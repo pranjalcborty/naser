@@ -19,6 +19,12 @@ We are always looking for brilliant and motivated students to work with us. Curr
 reach out to us.
 
 ### Master's Student
+<p></p>
+<style>
+    td {
+        border: none !important;
+    }
+</style>
 
 <div align="center">
 <table>
