@@ -20,9 +20,12 @@ reach out to us.
 
 ### Master's Student
 
-* Amirmahdi Khosravi Tabrizi
-* Mehenika Akter Mitu
-* Pranjal Chakraborty \| [Bio](https://pranjal.net/)
-* Sarwat Islam Dipanzan
-* Mohammed Adib Khan
-* Yue Guan
+
+| ![Amirmahdi Khosravi Tabrizi](/assets/img/people/image.png) | ![Mehenika Akter Mitu](/assets/img/people/image.png) | ![Pranjal Chakraborty](/assets/img/people/image.png) |
+| :--: | :--: | :--: |
+| Amirmahdi Khosravi Tabrizi | Mehenika Akter Mitu | Pranjal Chakraborty |
+
+
+![Sarwat Islam Dipanzan](/assets/img/people/image.png)
+![Mohammed Adib Khan](/assets/img/people/image.png)
+![Yue Guan](/assets/img/people/image.png)

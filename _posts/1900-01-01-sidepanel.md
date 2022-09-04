@@ -3,7 +3,7 @@ layout: post
 title: ""
 ---
 
-![Naser]({{ site.baseurl }}/assets/img/naser.png){: width="80%" :}
+![Naser]({{ site.baseurl }}/assets/img/naser.png){: width="100%" :}
 
 **Naser Ezzati-Jivan**\
 PhD (University of Montreal)\

@@ -15,7 +15,7 @@ title: Home
 # Your name to show in the footer
 author: Naser Ezzati-Jivan
 
-baseurl: "/naser"
+baseurl: ""
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ baseurl: "/naser"
 navbar-links:
   Research Group (A-STAR): "tabs/research"
   Teaching: "tabs/teaching"
-  Publications: "tabs/bio"
+  Bio: "tabs/bio"
   Contact Me: "tabs/contact"
 
 ################
