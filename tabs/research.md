@@ -27,26 +27,26 @@ reach out to us.
 </style>
 
 <div align="center">
-<table>
-    <tr>
-        <td><img src="/assets/img/people/image.png"/></td>
-        <td><img src="/assets/img/people/image.png"/></td>
-        <td><img src="/assets/img/people/image.png"/></td>
-    </tr>
-    <tr>
-        <td style="text-align: center">Amirmahdi Khosravi Tabrizi</td>
-        <td style="text-align: center">Mehenika Akter</td>
-        <td style="text-align: center">Pranjal Chakraborty</td>
-    </tr>
-    <tr>
-        <td><img src="/assets/img/people/image.png"/></td>
-        <td><img src="/assets/img/people/image.png"/></td>
-        <td><img src="/assets/img/people/image.png"/></td>
-    </tr>
-    <tr>
-        <td style="text-align: center">Sarwat Islam Dipanzan</td>
-        <td style="text-align: center">Mohammed Adib Khan</td>
-        <td style="text-align: center">Yue Guan</td>
-    </tr>
-</table>
+    <table>
+        <tr>
+            <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
+            <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
+            <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Amirmahdi Khosravi Tabrizi</td>
+            <td style="text-align: center">Mehenika Akter</td>
+            <td style="text-align: center">Pranjal Chakraborty</td>
+        </tr>
+        <tr>
+            <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
+            <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
+            <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
+        </tr>
+        <tr>
+            <td style="text-align: center">Sarwat Islam Dipanzan</td>
+            <td style="text-align: center">Mohammed Adib Khan</td>
+            <td style="text-align: center">Yue Guan</td>
+        </tr>
+    </table>
 </div>
