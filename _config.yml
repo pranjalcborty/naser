@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Home
+title: ""
 
 # Your name to show in the footer
 author: Naser Ezzati-Jivan
@@ -150,7 +150,7 @@ hover-col: "EBEBEB"
 footer-col: "#FFFFFF"
 footer-text-col: "#404040"
 footer-link-col: "#03a7dd"
-footer-hover-col: "#FFFF00"
+footer-hover-col: "EBEBEB"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
