@@ -59,6 +59,7 @@ We also worked on a software project for the Niagara 2022 Canada Summer Games. Y
         </tr>
     </table>
 </div>
+<p></p>
 
 ### Recent Publications (2022)
 For the complete list of publications, check my [Google Scholar](https://scholar.google.com/citations?hl=en&user=sJWcLv8AAAAJ&view_op=list_works&sortby=pubdate) 
