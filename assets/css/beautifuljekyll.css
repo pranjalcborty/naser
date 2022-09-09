@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Arial', 'Times New Roman', serif;
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -485,7 +485,7 @@ footer .footer-custom-content {
 }
 
 .sidepanel {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 
 .post-preview .post-title {
