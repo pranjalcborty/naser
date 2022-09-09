@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Automated Software Testing & Analysis Research (A-STAR) Group
-cover-img: /assets/img/bg.png
+title: Research
 ---
 
 <!--- 
@@ -9,16 +8,26 @@ Add an image to the /assets/img/ directory and add that file name like the follo
 
 cover-img: /assets/img/path.jpg 
 --->
+My research interest consists of-
 
-My research group, Automated Software Testing & Analysis Research, consists of several undergrads, and masters students. We are supported by
-generous funding from Mitacs, NSERC and several other funding agencies. Our work is closely intertwined with the industry, and we collaborate 
-with companies like Ciena to produce cutting edge research outputs.
+* Software Performance
+* Software Reliability
+* Software Debugging
 
-We are always looking for brilliant and motivated students to work with us. Currently, I am looking for undergrad and graduate students 
-(masters and PhD) to work with. If you think you are one of them, head over to the "[Contact me]({{ site.baseurl }}/tabs/contact)" page and 
-reach out to us.
+I am particularly interested to work with the aformentioned topics in the context of IoT, cloud and distributed systems. Currently, I am looking for 
+masters and PhD students, visiting researchers, and postdocs to work with. If your research interests aligns with mine, head over to the "[Contact me]({{ site.baseurl }}/tabs/contact)" page and reach out.
 
-### Master's Student
+### Research Projects
+Current research projects:
+
+* Adaptive Tracing - Funded by Mitacs, NSERC
+* Power Efficiency of Software Systems - Funded by VPMI, FedDev
+
+We also worked on a software project for the Niagara 2022 Canada Summer Games. You can read about it [here](https://brocku.ca/brock-news/2022/05/canada-games-teaching-spotlight-computer-science-students-developing-canada-games-chatbot/).
+
+### Research Team
+
+#### Masters Students
 <p></p>
 <style>
     td {
@@ -50,3 +59,17 @@ reach out to us.
         </tr>
     </table>
 </div>
+
+### Recent Publications (2022)
+For the complete list of publications, check my [Google Scholar](https://scholar.google.com/citations?hl=en&user=sJWcLv8AAAAJ&view_op=list_works&sortby=pubdate) 
+profile.
+
+* Raphael Beamonte, Ezzati-Jivan, Naser, and Michel R Dagenais.\
+  Execution trace-based model verification to analyze multicore and real-time systems.\
+  Concurrency and Computation: Practice and Experience, **2022**.\
+  https://doi.org/10.1002/cpe.69742.
+
+* Majid Rezazadeh, Ezzati-Jivan, Naser, Seyed Vahid Azhari, and Michel R Dagenais.\
+  Performance evaluation of complex multi-thread applications through execution path analysis.\
+  Elsevier Performance Evaluation, **2022**.\
+  https://doi.org/10.1016/j.peva.2022.102289
