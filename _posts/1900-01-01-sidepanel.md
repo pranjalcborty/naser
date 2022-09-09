@@ -6,7 +6,6 @@ title: ""
 ![Naser]({{ site.baseurl }}/assets/img/naser.png){: width="100%" :}
 
 **Naser Ezzati-Jivan**\
-Assistant Professor, Brock University\
 *PhD (University of Montreal)*\
 *MSc in Software Engineering (University of Isfahan)*\
 *BSc in Software Engineering (Sharif University of Technology)*\
