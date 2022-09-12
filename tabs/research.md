@@ -40,12 +40,12 @@ We also worked on a software project for the Niagara 2022 Canada Summer Games. Y
         <tr>
             <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
             <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
-            <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
+            <td><img src="{{ site.baseurl }}/assets/img/people/pranjal.jpeg"/></td>
         </tr>
         <tr>
             <td style="text-align: center">Amirmahdi Khosravi Tabrizi</td>
             <td style="text-align: center">Mehenika Akter</td>
-            <td style="text-align: center">Pranjal Chakraborty</td>
+            <td style="text-align: center"><a href="https://pranjal.net/">Pranjal Chakraborty</a></td>
         </tr>
         <tr>
             <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
