@@ -44,7 +44,7 @@ We also worked on a software project for the Niagara 2022 Canada Summer Games. Y
         </tr>
         <tr>
             <td style="text-align: center">Amirmahdi Khosravi Tabrizi</td>
-            <td style="text-align: center"><a href="www.linkedin.com/in/mehenika">Mehenika Akter</a></td>
+            <td style="text-align: center"><a href="https://www.linkedin.com/in/mehenika">Mehenika Akter</a></td>
             <td style="text-align: center"><a href="https://pranjal.net/">Pranjal Chakraborty</a></td>
         </tr>
         <tr>
