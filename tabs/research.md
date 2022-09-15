@@ -48,7 +48,7 @@ We also worked on a software project for the Niagara 2022 Canada Summer Games. Y
             <td style="text-align: center"><a href="https://pranjal.net/">Pranjal Chakraborty</a></td>
         </tr>
         <tr>
-            <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
+            <td><img src="{{ site.baseurl }}/assets/img/people/dipanzan.jpg"/></td>
             <td><img src="{{ site.baseurl }}/assets/img/people/adib.png"/></td>
             <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
         </tr>
