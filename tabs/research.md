@@ -53,7 +53,7 @@ We also worked on a software project for the Niagara 2022 Canada Summer Games. Y
             <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
         </tr>
         <tr>
-            <td style="text-align: center">Sarwat Islam Dipanzan</td>
+            <td style="text-align: center">Dipanzan Islam</td>
             <td style="text-align: center">Mohammed Adib Khan</td>
             <td style="text-align: center">Yue Guan</td>
         </tr>
