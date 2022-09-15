@@ -49,7 +49,7 @@ We also worked on a software project for the Niagara 2022 Canada Summer Games. Y
         </tr>
         <tr>
             <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
-            <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
+            <td><img src="{{ site.baseurl }}/assets/img/people/adib.png"/></td>
             <td><img src="{{ site.baseurl }}/assets/img/people/image.png"/></td>
         </tr>
         <tr>
