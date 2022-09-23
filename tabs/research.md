@@ -10,9 +10,11 @@ cover-img: /assets/img/path.jpg
 --->
 My research interest consists of-
 
-* Software Performance
-* Software Reliability
-* Software Debugging
+* Software Engineering,
+* Software Analysis,
+* Software Debugging,
+* Performance Evaluation,
+* Energy Efficiency
 
 I am particularly interested to work with the aformentioned topics in the context of IoT, cloud and distributed systems. Currently, I am looking for 
 masters and PhD students, visiting researchers, and postdocs to work with. If your research interests aligns with mine, head over to the "[Contact me]({{ site.baseurl }}/tabs/contact)" page and reach out.
